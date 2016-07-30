@@ -1,1 +1,1 @@
-# lasertagrepeater
+# Laser Tag Repeater
